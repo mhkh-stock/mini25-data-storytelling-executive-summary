@@ -1,0 +1,3 @@
+quarter,orders,lines,units,gross_pkr,discount_pkr,net_pkr,gross_profit_pkr,margin_pct,avg_order_value_pkr,baseline_note
+Q1,205,375,558,3446500,52710,3393790,1294340,38.14,16555.07,"Baseline: Jan-Mar, no promo — same shop, full prices."
+Q2,345,648,965,5884700,720180,5164520,1576470,30.53,14969.62,Promo period: the Apr-May Eid sale drove Q2 (20-30% off most orders); NOT like-for-like with Q1 — the mix changed.

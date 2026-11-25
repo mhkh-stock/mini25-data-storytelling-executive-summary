@@ -1,0 +1,4 @@
+part,label,value_pkr,change_pct,sentence
+Context,"Net revenue in Q1 2026 (Jan-Mar, before the promo)",3393790,,"In Q1, before any promo, net revenue was PKR 3393790."
+Change,"Net revenue in Q2 2026 (Apr-Jun, Eid-sale promo)",5164520,52.18,"In Q2 net revenue rose to PKR 5164520, up 52.18% on Q1."
+Consequence,Gross profit in Q2 2026 vs Q1 2026,1576470,21.8,"Gross profit rose only 21.8% to PKR 1576470 (Q1: PKR 1294340) — the promo bought revenue, not profit."

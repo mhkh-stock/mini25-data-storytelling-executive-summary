@@ -1,0 +1,76 @@
+{
+  "orders": 550,
+  "lines": 1023,
+  "customers": 60,
+  "products": 9,
+  "units": 1523,
+  "gross_revenue_pkr": 9331200,
+  "total_discount_pkr": 772890,
+  "net_revenue_pkr": 8558310,
+  "gross_profit_pkr": 2870810,
+  "overall_margin_pct": 33.54,
+  "q1_net_revenue_pkr": 3393790,
+  "q2_net_revenue_pkr": 5164520,
+  "headline_change_pct": 52.18,
+  "headline_sentence": "Net revenue was PKR 5164520 in Q2 2026, up 52.18% on Q1 2026 (PKR 3393790).",
+  "q1_margin_pct": 38.14,
+  "q2_margin_pct": 30.53,
+  "margin_change_points": -7.61,
+  "q1_gross_profit_pkr": 1294340,
+  "q2_gross_profit_pkr": 1576470,
+  "profit_change_pct": 21.8,
+  "promo_discount_apr_may_pkr": 645700,
+  "monthly_net_revenue_pkr": {
+    "2026-01": 991350,
+    "2026-02": 1209670,
+    "2026-03": 1192770,
+    "2026-04": 1399860,
+    "2026-05": 2020840,
+    "2026-06": 1743820
+  },
+  "monthly_margin_pct": {
+    "2026-01": 38.59,
+    "2026-02": 38.13,
+    "2026-03": 37.77,
+    "2026-04": 28.11,
+    "2026-05": 26.86,
+    "2026-06": 36.71
+  },
+  "peak_month": "2026-05",
+  "peak_month_net_pkr": 2020840,
+  "net_revenue_by_category_pkr": {
+    "Electronics": 3474800,
+    "Furniture": 3164160,
+    "Kitchen": 1678390,
+    "Stationery": 240960
+  },
+  "net_revenue_by_channel_pkr": {
+    "In-Store": 2410760,
+    "Online": 3520350,
+    "Phone": 2627200
+  },
+  "top_product": "Office Chair",
+  "top_product_net_pkr": 2430000,
+  "rest_products_net_pkr": 1910250,
+  "takeaway_sentence": "Net revenue peaked in May at PKR 2,020,840 \u2014 but the Apr\u2013May promo bought that growth with PKR 645,700 of discounts, so margin fell from 38.14% in Q1 to 30.53% in Q2.",
+  "technique_rows": {
+    "t01": 1,
+    "t02": 3,
+    "t03": 2,
+    "t04": 7,
+    "t05": 2,
+    "t06": 6,
+    "t07": 3,
+    "t08": 6,
+    "t09": 3,
+    "t10": 8
+  },
+  "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ]
+}

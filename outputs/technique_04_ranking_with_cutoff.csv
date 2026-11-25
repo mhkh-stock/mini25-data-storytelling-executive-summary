@@ -1,0 +1,8 @@
+rank,product_name,category,lines,net_pkr,share_pct
+1,Office Chair,Furniture,98,2430000,28.39
+2,Mechanical Keyboard,Electronics,132,1556350,18.19
+3,Dinner Set 24pc,Kitchen,59,1228150,14.35
+4,Desk Lamp,Furniture,130,734160,8.58
+5,Bluetooth Speaker,Electronics,85,699400,8.17
+Rest,All other products (4),Mixed,519,1910250,22.32
+TOTAL,All products (9),Mixed,1023,8558310,100.0

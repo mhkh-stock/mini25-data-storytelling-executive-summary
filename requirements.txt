@@ -1,0 +1,5 @@
+# Mini #25 — Data Storytelling & Executive Summary Pack
+# Standard library + matplotlib + reportlab (chart + one-page PDF).
+
+matplotlib
+reportlab
